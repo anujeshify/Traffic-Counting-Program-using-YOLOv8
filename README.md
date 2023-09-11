@@ -78,7 +78,7 @@ This project includes pre-trained YOLOv8 weights (`yolov8m.pt`) located in the `
 ## Output
 
 The program will save the vehicle count in the `vehicle_count.txt` file in the project directory.
-![Traffic Counting](https://github.com/your-username/your-repository/blob/main/traffic_count.png)
+![Traffic Counting](https://github.com/anujeshify/Traffic-Counting-Program-using-YOLOv8/blob/main/output.png)
 
 here: vid - vehicle id
 
@@ -96,4 +96,4 @@ here: vid - vehicle id
 
 ## Acknowledgments
 
-* Inspiration - This project was inspired by the need for accurate traffic analysis and management using concepts of deep learning and nueral networks.
+* Inspiration - This project was inspired by the need for accurate traffic analysis and management using concepts of deep learning and neural networks.
